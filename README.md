@@ -6,7 +6,8 @@
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/niraj-kumar09160) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhavgoel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/nirajkumar09160)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-kumar09160)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhavgoel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/nirajkumar09160)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/niraj_kumar0_1)
 
 
