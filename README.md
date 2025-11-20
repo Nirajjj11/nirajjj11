@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar </h1>
-<h3 align="center"> Software Developer, Programmer, MERN Developer </h3>
+<h3 align="center"> Learner ... </h3>
 
 - 📫 Reach me at - [bcabncnirajkumar2020@gmail.com](mailto:bcabncnirajkumar2020@gmail.com)
 
@@ -36,6 +36,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=nirajkumar09160&label=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
