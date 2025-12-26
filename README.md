@@ -2,19 +2,6 @@
 <h3 align="center"> Learner ... </h3>
 
 - 📫 Reach me at - [bcabncnirajkumar2020@gmail.com](mailto:bcabncnirajkumar2020@gmail.com)
-
-
-## 🚀 About Me:
-- 🎓 Background in Computer Applications
-
-- 🌱 Currently learning Machine Learning, Django, and Full-Stack Development
-
-- 💡 Believe in learning by building & experimenting
-
-- 🔭 Actively working on ML, NLP & Web projects
-
-- 🤝 Open to collaboration on Python, ML & Web projects
-
 <div align="center">
 
 ## 🌐 Connect with me:
@@ -38,25 +25,8 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </div>
 
-# 🤖 Machine Learning & Tools
-
-- NumPy, Pandas, Matplotlib
-
-- NLP & Sentiment Analysis
-
-- Jupyter Notebook
-
-- Django & Flask (backend)
-
-
-
-
-
-
-
-
-
 [![](https://visitcount.itsvg.in/api?id=nirajkumar09160&label=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
