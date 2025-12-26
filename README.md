@@ -4,6 +4,17 @@
 - 📫 Reach me at - [bcabncnirajkumar2020@gmail.com](mailto:bcabncnirajkumar2020@gmail.com)
 
 
+## 🌐 About me:
+🎓 Background in Computer Applications
+
+🌱 Currently learning Machine Learning, Django, and Full-Stack Development
+
+💡 Believe in learning by building & experimenting
+
+🔭 Actively working on ML, NLP & Web projects
+
+🤝 Open to collaboration on Python, ML & Web projects
+
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-kumar09160)
@@ -36,6 +47,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=nirajkumar09160&label=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
