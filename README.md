@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Hi 👋, I'm Niraj Kumar </h1>
 <h3 align="center"> Learner ... </h3>
 
@@ -16,6 +15,7 @@
 
 - 🤝 Open to collaboration on Python, ML & Web projects
 
+<div align="center">
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-kumar09160)
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Bootstrap-%238A2B2e.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-
+</div>
 
 # 🤖 Machine Learning & Tools
 
@@ -57,8 +57,6 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=nirajkumar09160&label=0&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
 
 
 
