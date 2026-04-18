@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Niraj Kumar;Django+%26+ML+Developer;Full+Stack+Developer+(MERN);Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Niraj+Kumar;Backend+Developer+%7C+Django+%E2%80%A2+Node+%E2%80%A2+APIs;React+%26+Machine+Learning" alt="Typing SVG" />
 </h1>
 <h3 align="center">Full Stack Developer | Django | React | Node & Express | Machine Learning</h3>
 
@@ -42,11 +42,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## 📊 GitHub Stats
+<p align="center">
+  <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nirajjj11&theme=merko" alt="GitHub Streak" /></a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nirajjj11)](https://git.io/streak-stats)
-<div align="center">
-  ## Profile Views
+## Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Nirajjj11&label=Profile%20views)
-</div>
+
 
 
