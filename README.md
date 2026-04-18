@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nirajjj11&theme=merko" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nirajjj11&theme=merko" alt="GitHub Streak" />
 </p>
 
 ## Profile Views
