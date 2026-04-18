@@ -39,6 +39,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238A2B2e?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirajjj11&show_icons=true&theme=radical" />
+</p>
+
 ## Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nirajjj11&label=Profile%20views)
