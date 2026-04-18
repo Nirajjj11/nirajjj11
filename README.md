@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Niraj+Kumar;Backend+Developer+%7C+Django+%E2%80%A2+Node+%E2%80%A2+APIs;React+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I%27m+Niraj+Kumar;MERN+Developer+%7C+APIs;Django+%26+Machine+Learning;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
-<h3 align="center">Full Stack Developer | Django | React | Node & Express | Machine Learning</h3>
+<h3 align="center">Full Stack Developer | Machine Learning | Django | React | Node & Express</h3>
 
 - 📫 Reach me at - [bcabncnirajkumar2020@gmail.com](mailto:bcabncnirajkumar2020@gmail.com)
 
