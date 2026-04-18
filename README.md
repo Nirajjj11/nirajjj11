@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Niraj Kumar </h1>
-<h3 align="center"> Web & AI Developer | Learner ... </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Niraj Kumar;Django+%26+ML+Developer;Full+Stack+Developer+(MERN);Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
+<h3 align="center">Full Stack Developer | Django | React | Node & Express | Machine Learning</h3>
 
 - 📫 Reach me at - [bcabncnirajkumar2020@gmail.com](mailto:bcabncnirajkumar2020@gmail.com)
 
@@ -41,11 +43,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirajjj11&show_icons=true&theme=radical" />
-</p>
-
-## Profile Views
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nirajjj11)](https://git.io/streak-stats)
+<div align="center">
+  ## Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Nirajjj11&label=Profile%20views)
+</div>
+
 
