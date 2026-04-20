@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I%27m+Niraj+Kumar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I%27m+Niraj" alt="Typing SVG" />
 </h1>
 <h3 align="center">Learning... </h3>
 
@@ -40,14 +40,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238A2B2e?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nirajjj11&theme=merko" alt="GitHub Streak" />
-</p>
-
-## Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=Nirajjj11&label=Profile%20views)
-
-
-
